@@ -1,6 +1,5 @@
 import math
 
-# Prompt and message variables
 PROMPT_FIRST = "enter a number for function: "
 PROMPT_SECOND = "enter a second number for function: "
 INVALID_MSG = "Invalid input. Please enter numeric values."
@@ -29,3 +28,4 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+
